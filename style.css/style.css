@@ -1,0 +1,13 @@
+input{
+    display: block;
+    margin: 0.2rem;
+}
+
+form{
+    margin-bottom: 3rem;    
+    width: fit-content;
+    border: 1px solid black;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+
